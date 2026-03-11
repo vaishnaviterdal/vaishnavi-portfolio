@@ -1,23 +1,13 @@
-function showMessage() {
-    alert("Welcome to my website, Vaishnavi!");
+function changeBackground(){
+
+let colors = ["#f5f7fa","#e3f2fd","#fff3e0","#fce4ec"];
+
+let random = Math.floor(Math.random()*colors.length);
+
+document.body.style.backgroundColor = colors[random];
+
 }
 
-function changeGreeting() {
-    document.getElementById("greeting").innerText = "You're learning JavaScript 🎉";
-}
-
-function changeBackground() {
-    document.body.style.backgroundColor = "#ffe4e1";
-}
-
-function showAnime() {
-    document.getElementById("anime-name").innerText = "My favorite anime is Demon Slayer 🌸";
-}
-
-function changeHeadingColor() {
-    document.getElementById("main-heading").style.color = "purple";
-}
-
-function hideParagraph() {
-    document.getElementById("hide-me").style.display = "none";
+function changeHeadingColor(){
+document.getElementById("main-heading").style.color="purple";
 }
