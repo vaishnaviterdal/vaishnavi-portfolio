@@ -1,7 +1,7 @@
 # Vaishnavi Terdal – Developer Portfolio
 
 This is my personal developer portfolio website built using HTML, CSS and JavaScript.  
-It highlights my skills, projects and interests as an AI & Data Science student and aspiring backend developer.
+It highlights my skills, projects and interests as an AI & Data Science student.
 
 ---
 
