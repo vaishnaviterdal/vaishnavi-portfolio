@@ -8,38 +8,26 @@ It highlights my skills, projects and interests as an AI & Data Science student 
 ## About Me
 
 I am an AI & Data Science student passionate about building real-world applications and learning new technologies.  
-I enjoy working on backend development using Java and Spring Boot and exploring problem solving and software development.
+I enjoy working on Data Science and curious about learning new AI technology.
 
 ---
 
 ## Skills
 
 - Java
-- Spring Boot
-- REST API Development
 - MySQL
 - Python (Basics)
 - HTML
 - CSS
 - JavaScript (Basics)
-- Git & GitHub
+
 
 ---
 
 ## Projects
 
-### Book Library REST API
-A backend REST API built using **Spring Boot** to manage book records.  
-Features CRUD operations and MySQL database integration.
-
-### Job Portal Application
-Backend application built with **Spring Boot** to manage job listings and job search functionality.
-
 ### Lost and Found Matcher (Team Project In progress)
 A system designed to match lost and found items using backend integration with **Python Flask**.
-
-### College Event Management System *(In Progress)*
-Backend system for managing college events, registrations and event data.
 
 ---
 
