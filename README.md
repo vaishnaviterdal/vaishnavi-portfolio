@@ -16,10 +16,10 @@ I enjoy working on Data Science and curious about learning new AI technology.
 
 - Java
 - MySQL
-- Python
+- Python(Advanced)
 - HTML
 - CSS
-- JavaScript (Basics)
+- JavaScript (Basics) 
 
 
 ---
@@ -27,7 +27,7 @@ I enjoy working on Data Science and curious about learning new AI technology.
 ## Projects
 
 ### Lost and Found Matcher (Team Project In progress)
-A system designed to match lost and found items using backend integration with **Python Flask**.
+Designing a system to match lost and found items using backend integration with **Python FastAPI**.
 
 ---
 
