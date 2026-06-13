@@ -16,7 +16,7 @@ I enjoy working on Data Science and curious about learning new AI technology.
 
 - Java
 - MySQL
-- Python (Basics)
+- Python
 - HTML
 - CSS
 - JavaScript (Basics)
